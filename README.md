@@ -16,6 +16,9 @@
 Let your environment fill with vault secrets.
 </div>
 
+## Purpose
+
+Set your environment variables from [the Vault](https://www.vaultproject.io/).
 
 ## Usage
 
