@@ -1,6 +1,6 @@
 {
   "name": "configuru-vault",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jiří Šmolík <smolikjirka@gmail.com>",
   "contributors": [],
   "main": "./dist/main.js",
