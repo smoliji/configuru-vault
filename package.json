@@ -7,6 +7,10 @@
   "engines": {
     "node": "^10.14.0"
   },
+  "files": [
+    "dist/*",
+    "register/*"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/AckeeCZ/configuru-vault"
